@@ -2,3 +2,5 @@
 
 
 "Bu proje, makine öğrenimi ve veri madenciliği teknikleri kullanarak kredi kartı ödeme riski tahmini yapmayı amaçlamaktadır. Veri setini dengelemek için under-sampling, dengesiz sınıflar için tahmin performansını iyileştirmek amacıyla ağırlıklı k-NN kullanılmıştır. Proje, veri ön işleme, model uygulaması ve değerlendirme aşamalarını içermektedir."
+
+https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset/data
