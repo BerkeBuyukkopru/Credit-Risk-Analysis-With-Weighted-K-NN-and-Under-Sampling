@@ -1,4 +1,4 @@
-# Credit-Risk-Analysis
+# Credit Risk Analysis
 
 * This project focuses on predicting credit card default risks using machine learning and data mining techniques. It employs under-sampling to balance the dataset and weighted k-NN to improve prediction performance for imbalanced classes. The project includes data preprocessing, model implementation, and evaluation.
 
